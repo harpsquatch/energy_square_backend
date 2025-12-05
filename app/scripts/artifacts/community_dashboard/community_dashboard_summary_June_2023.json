@@ -1,0 +1,20 @@
+{
+  "generation_date": "2025-11-01T12:35:31.756680",
+  "period": "June 2023",
+  "total_intervals": 720,
+  "energy_totals": {
+    "total_solar_kwh": 0.0,
+    "total_consumption_kwh": 0.0,
+    "total_carbon_offset_kg": 0.0
+  },
+  "averages": {
+    "avg_solar_kw": 0.0,
+    "avg_consumption_kw": 0.0
+  },
+  "validation": {
+    "has_negative_solar": "False",
+    "has_negative_carbon": "False",
+    "has_zero_totals": "True",
+    "is_valid": false
+  }
+}

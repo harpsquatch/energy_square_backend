@@ -1,7 +1,7 @@
 from typing import List, Dict, Any
 from fastapi import APIRouter, HTTPException
 from app.schemas.system_notice_schema import SystemNoticeIn, SystemNoticeOut
-from app.services.system_notice_service import SystemNoticeService
+from app.services.infrastructure.system_notice_service import SystemNoticeService
 import logging
 
 logger = logging.getLogger(__name__)

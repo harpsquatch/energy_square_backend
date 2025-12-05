@@ -1,0 +1,29 @@
+{
+  "generation_date": "2025-11-01T12:35:28.288673",
+  "period": "April 2023",
+  "total_users": 5,
+  "user_types": {
+    "Prosumer": 4,
+    "Consumer": 1
+  },
+  "community_totals": {
+    "total_solar_kwh": 8913.33,
+    "total_consumption_kwh": 20668.24,
+    "total_carbon_offset_kg": 4456.66
+  },
+  "user_totals": {
+    "total_solar_kwh": 8913.33,
+    "total_consumption_kwh": 20668.24,
+    "total_carbon_offset_kg": 4456.66
+  },
+  "coherence_check": {
+    "solar_match_pct": 100.0,
+    "consumption_match_pct": 100.0
+  },
+  "validation": {
+    "has_negative_solar": "False",
+    "has_negative_carbon": "False",
+    "has_zero_user_totals": "False",
+    "is_valid": true
+  }
+}

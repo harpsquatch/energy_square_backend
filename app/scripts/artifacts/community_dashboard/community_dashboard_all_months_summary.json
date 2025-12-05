@@ -1,0 +1,415 @@
+{
+  "generation_date": "2025-11-01T12:35:33.655650",
+  "period": "May 2022 - July 2023",
+  "total_months": 15,
+  "months_processed": [
+    "May 2022",
+    "June 2022",
+    "July 2022",
+    "August 2022",
+    "September 2022",
+    "October 2022",
+    "November 2022",
+    "December 2022",
+    "January 2023",
+    "February 2023",
+    "March 2023",
+    "April 2023",
+    "May 2023",
+    "June 2023",
+    "July 2023"
+  ],
+  "monthly_summaries": [
+    {
+      "generation_date": "2025-11-01T12:35:08.766049",
+      "period": "May 2022",
+      "total_intervals": 744,
+      "energy_totals": {
+        "total_solar_kwh": 8103.24,
+        "total_consumption_kwh": 8.37,
+        "total_carbon_offset_kg": 4051.62
+      },
+      "averages": {
+        "avg_solar_kw": 10.89,
+        "avg_consumption_kw": 0.01
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:10.502876",
+      "period": "June 2022",
+      "total_intervals": 720,
+      "energy_totals": {
+        "total_solar_kwh": 7851.41,
+        "total_consumption_kwh": 8300.66,
+        "total_carbon_offset_kg": 3925.71
+      },
+      "averages": {
+        "avg_solar_kw": 10.9,
+        "avg_consumption_kw": 11.53
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:12.213203",
+      "period": "July 2022",
+      "total_intervals": 744,
+      "energy_totals": {
+        "total_solar_kwh": 8783.87,
+        "total_consumption_kwh": 2233.26,
+        "total_carbon_offset_kg": 4391.93
+      },
+      "averages": {
+        "avg_solar_kw": 11.81,
+        "avg_consumption_kw": 3.0
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:14.049371",
+      "period": "August 2022",
+      "total_intervals": 744,
+      "energy_totals": {
+        "total_solar_kwh": 7927.5,
+        "total_consumption_kwh": 20989.66,
+        "total_carbon_offset_kg": 3963.75
+      },
+      "averages": {
+        "avg_solar_kw": 10.66,
+        "avg_consumption_kw": 28.21
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:15.759502",
+      "period": "September 2022",
+      "total_intervals": 720,
+      "energy_totals": {
+        "total_solar_kwh": 7422.4,
+        "total_consumption_kwh": 8561.07,
+        "total_carbon_offset_kg": 3711.2
+      },
+      "averages": {
+        "avg_solar_kw": 10.31,
+        "avg_consumption_kw": 11.89
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:17.544946",
+      "period": "October 2022",
+      "total_intervals": 744,
+      "energy_totals": {
+        "total_solar_kwh": 7478.47,
+        "total_consumption_kwh": 25979.23,
+        "total_carbon_offset_kg": 3739.23
+      },
+      "averages": {
+        "avg_solar_kw": 10.05,
+        "avg_consumption_kw": 34.92
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:19.656945",
+      "period": "November 2022",
+      "total_intervals": 720,
+      "energy_totals": {
+        "total_solar_kwh": 5065.12,
+        "total_consumption_kwh": 69288.24,
+        "total_carbon_offset_kg": 2532.56
+      },
+      "averages": {
+        "avg_solar_kw": 7.03,
+        "avg_consumption_kw": 96.23
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:21.567979",
+      "period": "December 2022",
+      "total_intervals": 744,
+      "energy_totals": {
+        "total_solar_kwh": 3976.37,
+        "total_consumption_kwh": 89493.04,
+        "total_carbon_offset_kg": 1988.18
+      },
+      "averages": {
+        "avg_solar_kw": 5.34,
+        "avg_consumption_kw": 120.29
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:23.033900",
+      "period": "January 2023",
+      "total_intervals": 581,
+      "energy_totals": {
+        "total_solar_kwh": 4258.79,
+        "total_consumption_kwh": 77653.12,
+        "total_carbon_offset_kg": 2129.39
+      },
+      "averages": {
+        "avg_solar_kw": 7.33,
+        "avg_consumption_kw": 133.65
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:24.820993",
+      "period": "February 2023",
+      "total_intervals": 672,
+      "energy_totals": {
+        "total_solar_kwh": 5669.92,
+        "total_consumption_kwh": 76883.85,
+        "total_carbon_offset_kg": 2834.96
+      },
+      "averages": {
+        "avg_solar_kw": 8.44,
+        "avg_consumption_kw": 114.41
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:26.572185",
+      "period": "March 2023",
+      "total_intervals": 744,
+      "energy_totals": {
+        "total_solar_kwh": 8009.82,
+        "total_consumption_kwh": 49053.08,
+        "total_carbon_offset_kg": 4004.91
+      },
+      "averages": {
+        "avg_solar_kw": 10.77,
+        "avg_consumption_kw": 65.93
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:28.286682",
+      "period": "April 2023",
+      "total_intervals": 720,
+      "energy_totals": {
+        "total_solar_kwh": 8913.33,
+        "total_consumption_kwh": 20668.24,
+        "total_carbon_offset_kg": 4456.66
+      },
+      "averages": {
+        "avg_solar_kw": 12.38,
+        "avg_consumption_kw": 28.71
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:29.969971",
+      "period": "May 2023",
+      "total_intervals": 744,
+      "energy_totals": {
+        "total_solar_kwh": 674.82,
+        "total_consumption_kwh": 0.0,
+        "total_carbon_offset_kg": 337.41
+      },
+      "averages": {
+        "avg_solar_kw": 0.91,
+        "avg_consumption_kw": 0.0
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:31.756680",
+      "period": "June 2023",
+      "total_intervals": 720,
+      "energy_totals": {
+        "total_solar_kwh": 0.0,
+        "total_consumption_kwh": 0.0,
+        "total_carbon_offset_kg": 0.0
+      },
+      "averages": {
+        "avg_solar_kw": 0.0,
+        "avg_consumption_kw": 0.0
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "True",
+        "is_valid": false
+      }
+    },
+    {
+      "generation_date": "2025-11-01T12:35:33.645100",
+      "period": "July 2023",
+      "total_intervals": 744,
+      "energy_totals": {
+        "total_solar_kwh": 8942.78,
+        "total_consumption_kwh": 0.0,
+        "total_carbon_offset_kg": 4471.39
+      },
+      "averages": {
+        "avg_solar_kw": 12.02,
+        "avg_consumption_kw": 0.0
+      },
+      "validation": {
+        "has_negative_solar": "False",
+        "has_negative_carbon": "False",
+        "has_zero_totals": "False",
+        "is_valid": true
+      }
+    }
+  ],
+  "grand_totals": {
+    "total_solar_kwh": 93077.84,
+    "total_consumption_kwh": 449111.82,
+    "total_carbon_offset_kg": 46538.9
+  },
+  "grand_averages": {
+    "avg_solar_kw": 8.59,
+    "avg_consumption_kw": 43.25
+  },
+  "data_quality": {
+    "total_months": 15,
+    "valid_months": 14,
+    "invalid_months": [
+      "June 2023"
+    ]
+  },
+  "energy_insights": {
+    "self_sufficiency_pct": 20.72,
+    "total_solar_kwh": 93077.84,
+    "total_consumption_kwh": 449111.82,
+    "external_dependency_pct": 79.28,
+    "p2p_trading_viability": {
+      "viable_periods": 2,
+      "total_periods": 12,
+      "viability_pct": 16.67,
+      "note": "P2P trading viable when surplus exists. Temporal balancing (storage/banking) needed for long-term viability."
+    },
+    "surplus_months": [
+      {
+        "period": "May 2022",
+        "solar_kwh": 8103.24,
+        "consumption_kwh": 8.37,
+        "surplus_kwh": 8094.87,
+        "surplus_pct": 96712.9
+      },
+      {
+        "period": "July 2022",
+        "solar_kwh": 8783.87,
+        "consumption_kwh": 2233.26,
+        "surplus_kwh": 6550.61,
+        "surplus_pct": 293.32
+      }
+    ],
+    "deficit_months": [
+      {
+        "period": "June 2022",
+        "solar_kwh": 7851.41,
+        "consumption_kwh": 8300.66,
+        "deficit_kwh": 449.25,
+        "deficit_pct": 5.41
+      },
+      {
+        "period": "August 2022",
+        "solar_kwh": 7927.5,
+        "consumption_kwh": 20989.66,
+        "deficit_kwh": 13062.16,
+        "deficit_pct": 62.23
+      },
+      {
+        "period": "September 2022",
+        "solar_kwh": 7422.4,
+        "consumption_kwh": 8561.07,
+        "deficit_kwh": 1138.67,
+        "deficit_pct": 13.3
+      },
+      {
+        "period": "October 2022",
+        "solar_kwh": 7478.47,
+        "consumption_kwh": 25979.23,
+        "deficit_kwh": 18500.76,
+        "deficit_pct": 71.21
+      },
+      {
+        "period": "November 2022",
+        "solar_kwh": 5065.12,
+        "consumption_kwh": 69288.24,
+        "deficit_kwh": 64223.12,
+        "deficit_pct": 92.69
+      }
+    ],
+    "interpretation": {
+      "self_sufficiency_status": "Low",
+      "trading_viability": "Low",
+      "requires_temporal_balancing": "True",
+      "recommendations": [
+        "Consider energy storage/banking for deficit periods",
+        "High simultaneity needed between generation and demand",
+        "Focus on surplus periods for P2P trading"
+      ]
+    }
+  }
+}
